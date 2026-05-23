@@ -7,7 +7,7 @@ import dotenv from "dotenv";
 dotenv.config();
 
 const app = express();
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
 
 app.use(express.json());
 
@@ -128,7 +128,7 @@ app.post("/api/analyze", async (req, res) => {
         location: "Gate 4 (South Entrance)",
         severity: totalFans > 90000 ? 95 : 35,
         eta: "Ongoing accumulation",
-        reasoning: "Unticketed accumulation forming localized outer queue crush."
+        reasoning: "Unticketed accumulation forming localized outer queue crash."
       },
       {
         location: "Gate 2 (East Entrance)",

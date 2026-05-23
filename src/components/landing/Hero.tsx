@@ -29,7 +29,7 @@ export const Hero: React.FC = () => {
             transition={{ duration: 0.5, delay: 0.1 }}
             className="text-4xl md:text-5xl lg:text-6xl font-black text-[#222222] tracking-tight leading-[1.08] mb-6"
           >
-            See the crush <br />
+            See the crash <br />
             <span className="text-[#FF385C]">before it happens.</span>
           </motion.h1>
 

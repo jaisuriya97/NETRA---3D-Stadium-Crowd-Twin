@@ -266,7 +266,7 @@ export class StadiumSimulator {
       if (this.params.weather === 'Sudden Rain' && g.id === 1) {
         severity = 94;
         reasoning = "Critical bottlenecks forming as fans flee uncovered South/East seating to sheltered stand entrances.";
-        eta = "Crush event projected in T-12 mins";
+        eta = "Crash event projected in T-12 mins";
       } else if (this.params.weather === 'Sudden Rain' && g.id === 2) {
         severity = 78;
         reasoning = "Heavy crowding at East entrance due to rain shelter demand.";
@@ -278,7 +278,7 @@ export class StadiumSimulator {
       } else if (this.params.totalFans > 90000 && g.id === 4) {
         // Overflow scenario
         severity = 96;
-        reasoning = "Excess unticketed crowd build-up blocks physical gate entrances. High crush index detected.";
+        reasoning = "Excess unticketed crowd build-up blocks physical gate entrances. High crash index detected.";
         eta = "Heavy surge; structural stall detected";
       } else {
         // Standard density metrics
