@@ -1,6 +1,6 @@
 # NETRA — 3D Digital Twin for Predictive Stadium Crowd Safety
 
-NETRA (meaning "Eye" in Sanskrit) is a predictive full-stack 3D digital twin platform built to model and simulate athletic and entertainment stadium crowd flow dynamics *before* incidents happen. Designed to mitigate severe bottlenecks and prevent crushing, NETRA allows safety commanders to pre-emptively simulate 80,000+ cricket fans, forecast rainfall-induced surges, and test tactical mitigations (like side gate activations or rerouting) using advanced agentic AI reasoning.
+NETRA (meaning "Eye" in Sanskrit) is a predictive full-stack 3D digital twin platform built to model and simulate athletic and entertainment stadium crowd flow dynamics *before* incidents happen. Designed to mitigate severe bottlenecks and prevent crashing, NETRA allows safety commanders to pre-emptively simulate 80,000+ cricket fans, forecast rainfall-induced surges, and test tactical mitigations (like side gate activations or rerouting) using advanced agentic AI reasoning.
 
 ---
 
