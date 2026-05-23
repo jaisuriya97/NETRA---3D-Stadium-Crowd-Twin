@@ -1,0 +1,6 @@
+{
+  "name": "NETRA - 3D Stadium Crowd Twin",
+  "description": "3D digital twin platform simulating cricket stadium crowd flow and predictive safety using AI reasoning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
